@@ -1,0 +1,17 @@
+{
+    "name": "rusirud/inspire",
+    "autoload": {
+        "psr-4": {
+            "Rusirud\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RusiruDananga",
+            "email": "rusirudananga97@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
